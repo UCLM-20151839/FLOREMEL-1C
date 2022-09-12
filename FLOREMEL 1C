@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My FIrst Table</title>
+    </head>
+    <style>
+        style, th, td{
+            border: 1px solid red;
+        }
+    </style>
+    <body>
+        <table style="width: 100%">
+            <tr>
+                <td>HEADER</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>COLUMN1</td>
+                <td>COLUMN2</td>
+            </tr>
+            <tr>
+                <td>ROW1</td>
+                <td>DATA11</td>
+                <td>DATA12</td>
+            </tr>
+            <tr>
+                <td>ROW2</td>
+                <td>DATA21</td>
+                <td>DATA22</td>
+            </tr>
+            <tr>
+                <td>ROW3</td>
+                <td>DTA31</td>
+                <td>DATA32</td>
+            </tr>
+        </table>
+    </body>
+</html>
